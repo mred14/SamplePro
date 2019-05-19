@@ -3,4 +3,4 @@ echo "# SamplePro" >> README.md
 git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/mred14/SamplePro.git
-git push -u origin master
+#git push -u origin master
